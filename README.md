@@ -15,4 +15,4 @@ Repositório com exemplos de testes usando JS-OO feitos em aula pela Dio-Digital
   
  6.Crie uma classe-filha chamada ContaPoupanca que herda todos os parâmetros de ContaBancaria;
  
- 7.e Crie uma classe-filha chamada ContaUniversitaria que herda todos os parâmetros de ContaBancaria;
+ 7.E Crie uma classe-filha chamada ContaUniversitaria que herda todos os parâmetros de ContaBancaria;
